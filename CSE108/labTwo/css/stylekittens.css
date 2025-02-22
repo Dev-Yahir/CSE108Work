@@ -1,0 +1,13 @@
+body {
+    background-color: #FFC0CB;
+}
+p {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #4B0082;
+}
+h1 {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #FF1493;
+    text-align: center;
+    margin-top: 50px;
+}
